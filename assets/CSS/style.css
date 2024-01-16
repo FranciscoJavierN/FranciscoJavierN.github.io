@@ -39,3 +39,13 @@
 .image6{
     background-image:url("../image/en_proceso.jpg");
 }
+
+.contenedor-contacto{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 2rem;
+    margin-top: 1rem;
+}
